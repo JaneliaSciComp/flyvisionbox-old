@@ -1,0 +1,6 @@
+*.pyc
+scripts/SAGE-prod.config
+__pycache__/
+flyvisionbox-data-test*
+local/
+
